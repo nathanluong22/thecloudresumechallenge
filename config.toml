@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://www.blog-tuanluong.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Welcome to The Cloud Resume Challenge'
 theme = "ananke"
